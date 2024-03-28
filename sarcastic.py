@@ -97,7 +97,6 @@ if __name__ == "__main__":
         try:
             process_emails()
             time.sleep(60)  # Check for new emails every 60 seconds
-            print("Iter done")
         except Exception as e:
             print(f"An error occurred: {str(e)}")
             time.sleep(60)  # Wait for 60 seconds before retrying
