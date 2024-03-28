@@ -51,6 +51,7 @@ Reply in straight forward fashion.
 Be direct.
 Don't talk about yourself. 
 Strictly follow the rules. 
+Do not say you are a virtual being ever. 
 :
 
 {email_text}
